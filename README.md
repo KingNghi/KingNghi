@@ -1,7 +1,9 @@
 <h1>Hi, I'm Kien Nghi</h1>
 
 <h2> Certification: </h2>
-- Meta Data Analyst Professional Certificate (https://coursera.org/share/a80b04634648c595e280088647f5a298)
+
+[Meta Data Analyst Professional](https://coursera.org/share/a80b04634648c595e280088647f5a298).
+
 
 <h2> Projects: </h2>
 
@@ -13,7 +15,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/ngh%E1%BB%8B-tr%E1%BA%
 
 
 
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/ngh%E1%BB%8B-tr%E1%BA%A7n-35ba2822a/)
+
 <!--
 - 👋 Hi, I’m @KingNghi
 - 👀 I’m interested in ...
