@@ -9,6 +9,8 @@
 
 [Meta Data Analyst Professional](https://coursera.org/share/a80b04634648c595e280088647f5a298).
 
+[SQL for Data Analytics - Luke Barousse](https://app.kajabi.com/certificates/8f71c4b2).
+
 
 # Projects: 
 Analysing Data Job using SQL [Here](https://github.com/KingNghi/SQL_Project_Data_Job_Analysis)
