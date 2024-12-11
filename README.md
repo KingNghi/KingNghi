@@ -14,6 +14,7 @@
 
 # Projects: 
 Analysing Data Job using SQL [Here](https://github.com/KingNghi/SQL_Project_Data_Job_Analysis)
+
 Analysing and Visualizing Sales of a superstore giant [Here](https://github.com/KingNghi/Superstore_Giant_Sales_Analysis)
 
 # 🤳 Connect with me:
