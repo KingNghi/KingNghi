@@ -17,6 +17,8 @@ Analysing Data Job using SQL [Here](https://github.com/KingNghi/SQL_Project_Data
 
 Analysing and Visualizing Sales of a superstore giant [Here](https://github.com/KingNghi/Superstore_Giant_Sales_Analysis)
 
+Predict the churn customer of a company using machine learning model [Here](https://github.com/KingNghi/Telco_Churn_Prediction)
+
 # 🤳 Connect with me:
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/ngh%E1%BB%8B-tr%E1%BA%A7n-35ba2822a/)
