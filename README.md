@@ -7,9 +7,9 @@
 
  # 🎖 Certification: 
 
-[Meta Data Analyst Professional](https://coursera.org/share/a80b04634648c595e280088647f5a298).
+[Meta Data Analyst Professional](https://drive.google.com/file/d/1NAAEnhH4FVgYAGuB9e8iWBT72abbn2g9/view?usp=sharing).
 
-[SQL for Data Analytics - Luke Barousse](https://app.kajabi.com/certificates/8f71c4b2).
+[SQL for Data Analytics - Luke Barousse](https://drive.google.com/file/d/1fkQmdBc65CHKnNhuN4n6p_v5dQ9ubDmE/view?usp=sharing).
 
 
 # Projects: 
